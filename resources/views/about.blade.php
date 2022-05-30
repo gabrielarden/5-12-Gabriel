@@ -1,4 +1,4 @@
-@extends('layouts.main')
+@extends('layouts.app')
  
  @section('container')
     <h1>Halaman about</h1>
